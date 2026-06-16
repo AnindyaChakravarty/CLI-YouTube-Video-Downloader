@@ -10,6 +10,8 @@
 
 > <span style="color:#b45309"><strong>Warning:</strong></span> This project is primarily based on `pytubefix`, with auxiliary features powered by `yt-dlp`. The downloader works only as long as those libraries can correctly communicate with YouTube.
 
+> <span style="color:#b45309"><strong>Warning:</strong></span> For the Powershell Script - I have no access to a "lay person's" computer, meaning I cannot test my scripts on PCs that do not have the necessary software (python, ffmpeg etc) first hand therefore **sometimes** the script may behave strangely.
+
 <hr>
 
 ## What This Application Does
